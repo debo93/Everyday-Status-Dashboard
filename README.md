@@ -1,0 +1,2 @@
+# Everyday-Status-Dashboard
+This Project basically tries to reduce the amount of effort, required in monitoring any Big Data project, in the Ingestion as well as Transformation phases. It itself checks various logs, related to the execution and completion of daily ingestiona nd transformation tasks. Then it shares an analytical dashboard report, which gives various paramemters with charts, to understand the overall process better and make improvements.
